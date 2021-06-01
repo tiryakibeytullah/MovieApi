@@ -1,0 +1,197 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Beytullah\\source\\repos\\MovieProject\\MovieProject.Service\\MovieProject.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Beytullah\\source\\repos\\MovieProject\\MovieProject.Core\\MovieProject.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Beytullah\\source\\repos\\MovieProject\\MovieProject.Core\\MovieProject.Core.csproj",
+        "projectName": "MovieProject.Core",
+        "projectPath": "C:\\Users\\Beytullah\\source\\repos\\MovieProject\\MovieProject.Core\\MovieProject.Core.csproj",
+        "packagesPath": "C:\\Users\\Beytullah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Beytullah\\source\\repos\\MovieProject\\MovieProject.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Beytullah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Beytullah\\source\\repos\\MovieProject\\MovieProject.Data\\MovieProject.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Beytullah\\source\\repos\\MovieProject\\MovieProject.Data\\MovieProject.Data.csproj",
+        "projectName": "MovieProject.Data",
+        "projectPath": "C:\\Users\\Beytullah\\source\\repos\\MovieProject\\MovieProject.Data\\MovieProject.Data.csproj",
+        "packagesPath": "C:\\Users\\Beytullah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Beytullah\\source\\repos\\MovieProject\\MovieProject.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Beytullah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Beytullah\\source\\repos\\MovieProject\\MovieProject.Core\\MovieProject.Core.csproj": {
+                "projectPath": "C:\\Users\\Beytullah\\source\\repos\\MovieProject\\MovieProject.Core\\MovieProject.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Beytullah\\source\\repos\\MovieProject\\MovieProject.Service\\MovieProject.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Beytullah\\source\\repos\\MovieProject\\MovieProject.Service\\MovieProject.Service.csproj",
+        "projectName": "MovieProject.Service",
+        "projectPath": "C:\\Users\\Beytullah\\source\\repos\\MovieProject\\MovieProject.Service\\MovieProject.Service.csproj",
+        "packagesPath": "C:\\Users\\Beytullah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Beytullah\\source\\repos\\MovieProject\\MovieProject.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Beytullah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Beytullah\\source\\repos\\MovieProject\\MovieProject.Core\\MovieProject.Core.csproj": {
+                "projectPath": "C:\\Users\\Beytullah\\source\\repos\\MovieProject\\MovieProject.Core\\MovieProject.Core.csproj"
+              },
+              "C:\\Users\\Beytullah\\source\\repos\\MovieProject\\MovieProject.Data\\MovieProject.Data.csproj": {
+                "projectPath": "C:\\Users\\Beytullah\\source\\repos\\MovieProject\\MovieProject.Data\\MovieProject.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

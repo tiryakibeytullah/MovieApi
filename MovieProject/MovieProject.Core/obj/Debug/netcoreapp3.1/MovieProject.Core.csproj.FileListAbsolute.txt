@@ -1,0 +1,9 @@
+C:\Users\Beytullah\source\repos\MovieProject\MovieProject.Core\bin\Debug\netcoreapp3.1\MovieProject.Core.deps.json
+C:\Users\Beytullah\source\repos\MovieProject\MovieProject.Core\bin\Debug\netcoreapp3.1\MovieProject.Core.dll
+C:\Users\Beytullah\source\repos\MovieProject\MovieProject.Core\bin\Debug\netcoreapp3.1\MovieProject.Core.pdb
+C:\Users\Beytullah\source\repos\MovieProject\MovieProject.Core\obj\Debug\netcoreapp3.1\MovieProject.Core.AssemblyInfoInputs.cache
+C:\Users\Beytullah\source\repos\MovieProject\MovieProject.Core\obj\Debug\netcoreapp3.1\MovieProject.Core.AssemblyInfo.cs
+C:\Users\Beytullah\source\repos\MovieProject\MovieProject.Core\obj\Debug\netcoreapp3.1\MovieProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\Beytullah\source\repos\MovieProject\MovieProject.Core\obj\Debug\netcoreapp3.1\MovieProject.Core.dll
+C:\Users\Beytullah\source\repos\MovieProject\MovieProject.Core\obj\Debug\netcoreapp3.1\MovieProject.Core.pdb
+C:\Users\Beytullah\source\repos\MovieProject\MovieProject.Core\obj\Debug\netcoreapp3.1\MovieProject.Core.csprojAssemblyReference.cache

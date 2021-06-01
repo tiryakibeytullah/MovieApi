@@ -1,0 +1,15 @@
+C:\Users\Beytullah\source\repos\MovieProject\MovieProject.Data\bin\Debug\netcoreapp3.1\MovieProject.Data.deps.json
+C:\Users\Beytullah\source\repos\MovieProject\MovieProject.Data\bin\Debug\netcoreapp3.1\MovieProject.Data.dll
+C:\Users\Beytullah\source\repos\MovieProject\MovieProject.Data\bin\Debug\netcoreapp3.1\MovieProject.Data.pdb
+C:\Users\Beytullah\source\repos\MovieProject\MovieProject.Data\obj\Debug\netcoreapp3.1\MovieProject.Data.csprojAssemblyReference.cache
+C:\Users\Beytullah\source\repos\MovieProject\MovieProject.Data\obj\Debug\netcoreapp3.1\MovieProject.Data.AssemblyInfoInputs.cache
+C:\Users\Beytullah\source\repos\MovieProject\MovieProject.Data\obj\Debug\netcoreapp3.1\MovieProject.Data.AssemblyInfo.cs
+C:\Users\Beytullah\source\repos\MovieProject\MovieProject.Data\obj\Debug\netcoreapp3.1\MovieProject.Data.dll
+C:\Users\Beytullah\source\repos\MovieProject\MovieProject.Data\obj\Debug\netcoreapp3.1\MovieProject.Data.pdb
+C:\Users\Beytullah\source\repos\MovieProject\MovieProject.Data\bin\Debug\netcoreapp3.1\MovieProject.Core.dll
+C:\Users\Beytullah\source\repos\MovieProject\MovieProject.Data\bin\Debug\netcoreapp3.1\MovieProject.Core.pdb
+C:\Users\Beytullah\source\repos\MovieProject\MovieProject.Data\obj\Debug\netcoreapp3.1\MovieProject.Data.csproj.CopyComplete
+C:\Users\Beytullah\source\repos\MovieProject\MovieProject.Data\bin\Debug\netcoreapp3.1\MovieProject.Data.runtimeconfig.json
+C:\Users\Beytullah\source\repos\MovieProject\MovieProject.Data\bin\Debug\netcoreapp3.1\MovieProject.Data.runtimeconfig.dev.json
+C:\Users\Beytullah\source\repos\MovieProject\MovieProject.Data\obj\Debug\netcoreapp3.1\MovieProject.Data.genruntimeconfig.cache
+C:\Users\Beytullah\source\repos\MovieProject\MovieProject.Data\obj\Debug\netcoreapp3.1\MovieProject.Data.csproj.CoreCompileInputs.cache
